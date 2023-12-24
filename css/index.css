@@ -1,0 +1,7 @@
+.listContainer{
+    display: flex;
+}
+.movieUlContainer{
+    background-color: red;
+    list-style-type: upper-alpha;
+}
